@@ -1,2 +1,0 @@
-python-telegram-bot==20.5
-gTTS==2.3.2
